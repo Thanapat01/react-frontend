@@ -33,7 +33,7 @@ function Add() {
         <input type="text" className="border" ref={descriptionRef}></input>
         <button
           type="button"
-          className="bg-blue-500 text-white px-2 rounded"
+          className="bg-blue-400 text-white px-2 rounded"
           onClick={handleAdd}
         >
           Add
